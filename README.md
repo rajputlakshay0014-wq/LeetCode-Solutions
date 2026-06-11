@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Linked List
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
