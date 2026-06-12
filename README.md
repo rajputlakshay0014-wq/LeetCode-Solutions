@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
