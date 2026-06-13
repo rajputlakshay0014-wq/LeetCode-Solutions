@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
