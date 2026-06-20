@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
