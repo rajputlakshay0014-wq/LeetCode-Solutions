@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
