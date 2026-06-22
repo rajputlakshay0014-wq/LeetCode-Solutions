@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0155-min-stack) |
