@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Sliding Window
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Union-Find
 |  |
 | ------- |
