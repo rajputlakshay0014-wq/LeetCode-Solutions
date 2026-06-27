@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
