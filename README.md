@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1641-count-sorted-vowel-strings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Union-Find
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1043-partition-array-for-maximum-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1641-count-sorted-vowel-strings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -521,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
