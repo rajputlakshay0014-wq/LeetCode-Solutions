@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
