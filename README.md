@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
