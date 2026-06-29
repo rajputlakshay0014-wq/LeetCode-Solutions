@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -480,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -526,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
