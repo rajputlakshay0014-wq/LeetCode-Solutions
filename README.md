@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
