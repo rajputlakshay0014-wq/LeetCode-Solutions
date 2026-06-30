@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1367-linked-list-in-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
