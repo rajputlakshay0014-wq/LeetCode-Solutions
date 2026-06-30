@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1641-count-sorted-vowel-strings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [3801-minimum-cost-to-merge-sorted-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Counting
 |  |
 | ------- |
