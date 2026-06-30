@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
