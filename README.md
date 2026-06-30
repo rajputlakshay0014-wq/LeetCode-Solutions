@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
