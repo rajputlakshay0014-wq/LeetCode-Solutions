@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
