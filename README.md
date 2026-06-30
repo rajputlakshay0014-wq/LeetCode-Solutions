@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Queue
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -568,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -585,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0684-redundant-connection](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0733-flood-fill) |
