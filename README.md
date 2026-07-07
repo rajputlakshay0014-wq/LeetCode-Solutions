@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1043-partition-array-for-maximum-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Math
 |  |
