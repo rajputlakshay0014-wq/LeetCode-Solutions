@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1043-partition-array-for-maximum-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
