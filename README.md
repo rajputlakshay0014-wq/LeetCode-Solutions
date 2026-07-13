@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1090-largest-values-from-labels](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1093-statistics-from-a-large-sample](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1093-statistics-from-a-large-sample) |
 | [1207-unique-number-of-occurrences](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1090-largest-values-from-labels](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [1090-largest-values-from-labels](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1090-largest-values-from-labels](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [1090-largest-values-from-labels](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
 ## Matrix
 |  |
 | ------- |
