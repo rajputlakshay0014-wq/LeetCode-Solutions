@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1093-statistics-from-a-large-sample](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1093-statistics-from-a-large-sample) |
 | [1207-unique-number-of-occurrences](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1093-statistics-from-a-large-sample](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1093-statistics-from-a-large-sample) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1641-count-sorted-vowel-strings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -746,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1093-statistics-from-a-large-sample](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1093-statistics-from-a-large-sample) |
 <!---LeetCode Topics End-->
