@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0162-find-peak-element) |
