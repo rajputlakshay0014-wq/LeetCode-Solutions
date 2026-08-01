@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0100-same-tree) |
