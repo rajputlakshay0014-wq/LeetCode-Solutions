@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0875-koko-eating-bananas](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
