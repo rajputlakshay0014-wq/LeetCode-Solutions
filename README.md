@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2104-sum-of-subarray-ranges](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3477-fruits-into-baskets-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Hash Table
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
