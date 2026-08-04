@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1093-statistics-from-a-large-sample) |
 | [1207-unique-number-of-occurrences](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2104-sum-of-subarray-ranges](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
