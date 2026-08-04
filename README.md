@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0695-max-area-of-island](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0767-reorganize-string) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0680-valid-palindrome-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [1090-largest-values-from-labels](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1090-largest-values-from-labels) |
