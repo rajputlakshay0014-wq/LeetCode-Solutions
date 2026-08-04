@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-replace-the-substring-for-balanced-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3477-fruits-into-baskets-ii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Prefix Sum
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Math
 |  |
 | ------- |
