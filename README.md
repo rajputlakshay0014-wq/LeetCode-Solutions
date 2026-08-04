@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0973-k-closest-points-to-origin](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -808,4 +811,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1093-statistics-from-a-large-sample](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1093-statistics-from-a-large-sample) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
