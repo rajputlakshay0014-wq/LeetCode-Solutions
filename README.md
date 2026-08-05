@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1093-statistics-from-a-large-sample](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1093-statistics-from-a-large-sample) |
 | [1207-unique-number-of-occurrences](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1310-xor-queries-of-a-subarray](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1584-min-cost-to-connect-all-points](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1310-xor-queries-of-a-subarray](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [3801-minimum-cost-to-merge-sorted-lists](https://github.com/rajputlakshay0014-wq/LeetCode-Solutions/tree/master/3801-minimum-cost-to-merge-sorted-lists) |
 ## Counting
 |  |
