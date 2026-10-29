@@ -1,12 +1,23 @@
+
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
-        int expectedSum = n * (n+1)/2;
-        int currentSum = 0;
-        for(int i =0;i<nums.length;i++){
-            currentSum += nums[i];
+
+        for (int i = 0; i <= n; i++) {
+            boolean found = false;
+
+            for (int j = 0; j < nums.length; j++) {
+                if (nums[j] == i) {
+                    found = true;
+                    break;
+                }
+            }
+
+            if (!found) {
+                return i;
+            }
         }
-        return expectedSum - currentSum;
-        
+
+        return -1;
     }
 }
